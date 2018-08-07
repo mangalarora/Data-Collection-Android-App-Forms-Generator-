@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_action_profile"
+            android:title="Edit Profile" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/icons8response48"
+            android:title="Responses" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_action_notification"
+            android:title="Notification" />
+        <item
+            android:id="@+id/nav_publicforms"
+            android:icon="@drawable/templates"
+            android:title="Public Forms" />
+        <item
+            android:id="@+id/nav_templates"
+            android:icon="@drawable/formss"
+            android:title="Templates" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/icons8process64"
+            android:title="Clone Opened Form" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_action_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="About" />
+    </group>
+
+    <item android:title="Basic Actions">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_action_share"
+                android:title="Share Forms" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/icons8"
+                android:title="Log Out" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/con1"
+        android:title="Afghanistan (+93)"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/con2"
+        android:title="Albania (+355)"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/con3"
+        android:title="Algeria (+213)"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/con4"
+        android:title="American Samoa (+1-684)"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/con5"
+        android:title="Andorra (+376)"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/con6"
+        android:title="Angola (+244)"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/con7"
+        android:title="Anguilla (+1-264)"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Antarctica (+672)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Antigua and Barbuda (+1-268)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Argentina (+54)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Armenia (+374)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Aruba (+297)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Australia (+61)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Austria (+43)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Azerbaijan (+994)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bahamas (+1-242)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bahrain (+973)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bangladesh (+880)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Barbados (+1-246)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Belarus (+375)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Belgium (+32)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Belize (+501)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Benin (+229)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bermuda (+1-441)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bhutan (+975)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bolivia (+591)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bosnia and Herzegovina (+387)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Botswana (+267)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Brazil (+55)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="British Indian Ocean Territory (+246)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="British Virgin Islands (+1-284)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Brunei (+673)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Bulgaria (+359)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Burkina Faso (+226)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Burundi (+257)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cambodia (+855)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cameroon (+237)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Canada (+1)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cape Verde (+238)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cayman Islands (+1-345)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Central African Republic (+236)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Chad (+235)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Chile (+56)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="China (+86)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Christmas Island (+61)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cocos Islands (+61)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Colombia (+57)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Comoros (+269)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cook Islands (+682)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Costa Rica (+506)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Croatia (+385)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cuba (+53)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Curacao (+599)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Cyprus (+357)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Czech Republic (+420)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Democratic Republic of the Congo (+243)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Denmark (+45)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Djibouti (+253)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Dominica (+1-767)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Dominican Republic (+1-809, 1-829, 1-849)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="East Timor (+670)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Ecuador (+593)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Egypt (+20)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="El Salvador (+503)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Equatorial Guinea (+240)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Eritrea (+291)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Estonia (+372)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Ethiopia (+251)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Falkland Islands (+500)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Faroe Islands (+298)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Fiji (+679)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Finland (+358)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="France (+33)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="French Polynesia (+689)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Gabon (+241)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Gambia (+220)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Georgia (+995)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Germany (+49)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Ghana (+233)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Gibraltar (+350)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Greece (+30)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Greenland (+299)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Grenada (+1-473)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Guam (+1-671)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Guatemala (+502)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Guernsey (+44-1481)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Guinea (+224)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Guinea-Bissau (+245)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Guyana (+592)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Haiti (+509)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Honduras (+504)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Hong Kong (+852)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Hungary (+36)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Iceland (+354)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="India (+91)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Indonesia (+62)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Iran (+98)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Iraq (+964)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Ireland (+353)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Isle of Man (+44-1624)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Israel (+972)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Italy (+39)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Ivory Coast (+225)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Jamaica (+1-876)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Japan (+81)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Jersey (+44-1534)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Jordan (+962)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Kazakhstan (+7)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Kenya (+254)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Kiribati (+686)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Kosovo (+383)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Kuwait (+965)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Kyrgyzstan (+996)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Laos (+856)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Latvia (+371)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Lebanon (+961)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Lesotho (+266)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Liberia (+231)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Libya (+218)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Liechtenstein (+423)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Lithuania (+370)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Luxembourg (+352)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Macao (+853)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Macedonia (+389)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Madagascar (+261)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Malawi (+265)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Malaysia (+60)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Maldives (+960)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Mali (+223)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Malta (+356)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Marshall Islands (+692)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Mauritania (+222)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Mauritius (+230)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Mayotte (+262)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Mexico (+52)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Micronesia (+691)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Moldova (+373)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Monaco (+377)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Mongolia (+976)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Montenegro (+382)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Montserrat (+1-664)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Morocco (+212)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Mozambique (+258)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Myanmar (+95)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Namibia (+264)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Nauru (+674)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Nepal (+977)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Netherlands (+31)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Netherlands Antilles (+599)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="New Caledonia (+687)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="New Zealand (+64)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Nicaragua (+505)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Niger (+227)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Nigeria (+234)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Niue (+683)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="North Korea (+850)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Northern Mariana Islands (+1-670)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Norway (+47)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Oman (+968)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Pakistan (+92)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Palau (+680)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Palestine (+970)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Panama (+507)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Papua New Guinea (+675)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Paraguay (+595)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Peru (+51)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Philippines (+63)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Pitcairn (+64)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Poland (+48)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Portugal (+351)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Puerto Rico (+1-787, 1-939)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Qatar (+974)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Republic of the Congo (+242)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Reunion (+262)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Romania (+40)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Russia (+7)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Rwanda (+250)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saint Barthelemy (+590)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saint Helena (+290)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saint Kitts and Nevis (+1-869)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saint Lucia (+1-758)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saint Martin (+590)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saint Pierre and Miquelon (+508)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saint Vincent and the Grenadines (+1-784)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Samoa (+685)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="San Marino (+378)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Sao Tome and Principe (+239)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Saudi Arabia (+966)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Senegal (+221)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Serbia (+381)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Seychelles (+248)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Sierra Leone (+232)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Singapore (+65)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Sint Maarten (+1-721)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Slovakia (+421)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Slovenia (+386)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Solomon Islands (+677)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Somalia (+252)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="South Africa (+27)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="South Korea (+82)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="South Sudan (+211)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Spain (+34)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Sri Lanka (+94)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Sudan (+249)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Suriname (+597)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Svalbard and Jan Mayen (+47)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Swaziland (+268)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Sweden (+46)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Switzerland (+41)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Syria (+963)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Taiwan (+886)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Tajikistan (+992)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Tanzania (+255)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Thailand (+66)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Togo (+228)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Tokelau (+690)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Tonga (+676)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Trinidad and Tobago (+1-868)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Tunisia (+216)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Turkey (+90)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Turkmenistan (+993)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Turks and Caicos Islands (+1-649)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Tuvalu (+688)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="U.S. Virgin Islands (+1-340)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Uganda (+256)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Ukraine (+380)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="United Arab Emirates (+971)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="United Kingdom (+44)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="United States (+1)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Uruguay (+598)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Uzbekistan (+998)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Vanuatu (+678)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Vatican (+379)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Venezuela (+58)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Vietnam (+84)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Wallis and Futuna (+681)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Western Sahara (+212)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Yemen (+967)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Zambia (+260)"
+
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="Zimbabwe (+263)"
+
+        app:showAsAction="ifRoom|withText" />
+</menu>

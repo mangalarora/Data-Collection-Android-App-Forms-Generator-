@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string-array name="widgets_data" tools:ignore="InconsistentArrays">
+        <item>
+            Plain Text
+
+
+        </item>
+        <item>
+           Paragraph
+       </item>
+        <item>
+            Password
+
+
+        </item>
+        <item>
+            Apply Ads
+
+
+        </item>
+        <item>
+            E-mail
+
+
+        </item>
+        <item>
+            Website
+
+
+        </item>
+        <item>
+            Phone
+
+
+        </item>
+        <item>
+            Number
+
+
+        </item>
+        <item>
+            Date
+
+
+        </item>
+        <item>
+            Time
+
+
+        </item>
+        <item>
+            Rating Star Bar
+
+
+        </item>
+        <item>
+            Seek Bar
+        </item>
+        <item>
+            Image Picker
+
+
+        </item>
+        <item>
+            GPS Location Picker
+        </item>
+        <item>
+            Google Map View Picker
+
+
+        </item>
+        <item>
+            Video Picker
+
+
+        </item>
+       <item>
+           Radio Button Group
+       </item>
+        <item>
+           Put An Image
+       </item>
+        <item>
+           Put a Video
+       </item>
+        <item>
+           Put an Audio
+       </item>
+        <item>
+            No Input
+
+
+        </item>
+        </string-array>
+</resources>
